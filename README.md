@@ -10,3 +10,5 @@ This project is built with nextJS
 
 # Pakcage to install 
 - npm i lucide-react
+- npm install next-themes
+- npx shadcn@latest add dropdown-menu
