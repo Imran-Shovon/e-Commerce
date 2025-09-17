@@ -13,3 +13,4 @@ This project is built with nextJS
 - npm install next-themes
 - npx shadcn@latest add dropdown-menu
 - npx shadcn@latest add sheet
+- npx shadcn@latest add card
